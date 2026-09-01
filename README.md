@@ -1,4 +1,4 @@
 # profile-demo
 This is me.
 <br>
-author - Nitesh Pramanik
+author - Nitesh Pramanik(Programmer)
